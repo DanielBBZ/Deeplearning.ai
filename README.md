@@ -30,9 +30,9 @@ This repo contains all of the project file for this specialization. [Deep Learni
 - Course 4: Convolutional Neural Networks
 
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
-  - [Week 1 - PA 2 - Convolutional Model: application] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
-  - [Week 2 - PA 2 - Residual Networks] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
+  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
+  - [Week 2 - PA 2 - Residual Networks](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
   
 - Course 5: [Sequence Models](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/SequenceModel) 
 
