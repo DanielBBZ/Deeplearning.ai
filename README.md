@@ -24,7 +24,7 @@ This repo contains all of the project file for this specialization. [Deep Learni
   - [Week 2 - PA 4 - Optimization Methods](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 
-- Course 3: [Structuring Machine Learning Projects] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/Structuring%20Machine%20Learning)
+- Course 3: [Structuring Machine Learning Projects](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/Structuring%20Machine%20Learning)
 
   
 - Course 4: Convolutional Neural Networks
@@ -34,7 +34,7 @@ This repo contains all of the project file for this specialization. [Deep Learni
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
   - [Week 2 - PA 2 - Residual Networks] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/ConvolutionModel)
   
-- Course 5: [Sequence Models] (https://github.com/DanielBBZ/Deeplearning.ai/tree/master/SequenceModel) 
+- Course 5: [Sequence Models](https://github.com/DanielBBZ/Deeplearning.ai/tree/master/SequenceModel) 
 
 
 
